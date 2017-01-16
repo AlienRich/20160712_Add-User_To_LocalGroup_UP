@@ -1,0 +1,10 @@
+MKDIR .\_CSMBADMIN
+MKDIR .\_CSMBMGR
+MKDIR .\_DCAD-CSMBADMIN
+MKDIR .\_KGIBANK-CSMBMGR
+MKDIR .\_CDIBank-CDIB3272
+copy _ADSI_Add_RMADMIN_and_LocalGroup_list_20160712¡i½d¥»¡j.ps1 .\_CSMBADMIN\_ADSI_Add_RMADMIN_and_LocalGroup_list_20160712.ps1
+copy _ADSI_Add_RMADMIN_and_LocalGroup_list_20160712¡i½d¥»¡j.ps1 .\_CSMBMGR\_ADSI_Add_RMADMIN_and_LocalGroup_list_20160712.ps1
+copy _ADSI_Add_RMADMIN_and_LocalGroup_list_20160712¡i½d¥»¡j.ps1 .\_DCAD-CSMBADMIN\_ADSI_Add_RMADMIN_and_LocalGroup_list_20160712.ps1
+copy _ADSI_Add_RMADMIN_and_LocalGroup_list_20160712¡i½d¥»¡j.ps1 .\_KGIBANK-CSMBMGR\_ADSI_Add_RMADMIN_and_LocalGroup_list_20160712.ps1
+copy _ADSI_Add_RMADMIN_and_LocalGroup_list_20160712¡i½d¥»¡j.ps1 .\_CDIBank-CDIB3272\_ADSI_Add_RMADMIN_and_LocalGroup_list_20160712.ps1

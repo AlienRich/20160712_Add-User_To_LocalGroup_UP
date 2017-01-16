@@ -1,0 +1,5 @@
+Get-LocalGroupMembers.ps1 -ComputerName (Get-Content c:\temp\servers.txt) -LocalGroupName ¡§Remote Desktop Users¡¨
+
+Get-LocalGroupMembers.ps1 -ComputerName SRVMEM1
+
+Get-LocalGroupMembers.ps1 -ComputerName (Get-Content c:\temp\servers.txt) -OutputDir c:\local
